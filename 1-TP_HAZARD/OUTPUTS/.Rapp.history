@@ -1,0 +1,4 @@
+load("/Users/aurelienhenon/Desktop/S9/catnat/catnat/1-TP_HAZARD/OUTPUTS/df_select_mex.Rdata")
+A =load("/Users/aurelienhenon/Desktop/S9/catnat/catnat/1-TP_HAZARD/OUTPUTS/df_select_mex.Rdata")
+A
+load("/Users/aurelienhenon/Desktop/S9/catnat/catnat/1-TP_HAZARD/OUTPUTS/df_select_mex.Rdata")
